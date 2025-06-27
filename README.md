@@ -27,7 +27,7 @@ The container includes the following tools:
 - [Snyk](https://snyk.io/)
 - [git-secrets](https://github.com/awslabs/git-secrets)
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog)
-- [Kubenumerate] (https://github.com/0x5ubt13/kubenumerate)
+- [Kubenumerate](https://github.com/0x5ubt13/kubenumerate)
 
 ## 📦 Build Instructions
 
